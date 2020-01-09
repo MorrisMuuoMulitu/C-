@@ -1,0 +1,13 @@
+Pécs1;0
+Pécs2;0
+Pécs3;0
+Pécs4;1
+Pécs5;0
+Pécs6;0
+Pécs7;2
+Pécs8;0
+Pécs9;1
+Pécs10;1
+Pécs11;0
+Pécs12;0
+Pécs13;1

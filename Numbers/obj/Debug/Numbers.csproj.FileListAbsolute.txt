@@ -1,0 +1,6 @@
+C:\Users\kingl\Google Drive\School\5th_Semester\Programming_3\Pass_Test\C#MustBePassed\Numbers\bin\Debug\Numbers.exe.config
+C:\Users\kingl\Google Drive\School\5th_Semester\Programming_3\Pass_Test\C#MustBePassed\Numbers\bin\Debug\Numbers.exe
+C:\Users\kingl\Google Drive\School\5th_Semester\Programming_3\Pass_Test\C#MustBePassed\Numbers\bin\Debug\Numbers.pdb
+C:\Users\kingl\Google Drive\School\5th_Semester\Programming_3\Pass_Test\C#MustBePassed\Numbers\obj\Debug\Numbers.csprojAssemblyReference.cache
+C:\Users\kingl\Google Drive\School\5th_Semester\Programming_3\Pass_Test\C#MustBePassed\Numbers\obj\Debug\Numbers.exe
+C:\Users\kingl\Google Drive\School\5th_Semester\Programming_3\Pass_Test\C#MustBePassed\Numbers\obj\Debug\Numbers.pdb

@@ -1,0 +1,6 @@
+D:\+254\C#\IT_Service_Company\ItServiceComp\ItServiceComp\obj\Debug\ItServiceComp.csproj.CoreCompileInputs.cache
+D:\+254\C#\IT_Service_Company\ItServiceComp\ItServiceComp\bin\Debug\ItServiceComp.exe.config
+D:\+254\C#\IT_Service_Company\ItServiceComp\ItServiceComp\bin\Debug\ItServiceComp.exe
+D:\+254\C#\IT_Service_Company\ItServiceComp\ItServiceComp\bin\Debug\ItServiceComp.pdb
+D:\+254\C#\IT_Service_Company\ItServiceComp\ItServiceComp\obj\Debug\ItServiceComp.exe
+D:\+254\C#\IT_Service_Company\ItServiceComp\ItServiceComp\obj\Debug\ItServiceComp.pdb
