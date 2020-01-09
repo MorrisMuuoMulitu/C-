@@ -1,0 +1,6 @@
+C:\Users\kingl\source\repos\Restaurant\bin\Debug\Restaurant.exe.config
+C:\Users\kingl\source\repos\Restaurant\bin\Debug\Restaurant.exe
+C:\Users\kingl\source\repos\Restaurant\bin\Debug\Restaurant.pdb
+C:\Users\kingl\source\repos\Restaurant\obj\Debug\Restaurant.csprojAssemblyReference.cache
+C:\Users\kingl\source\repos\Restaurant\obj\Debug\Restaurant.exe
+C:\Users\kingl\source\repos\Restaurant\obj\Debug\Restaurant.pdb
