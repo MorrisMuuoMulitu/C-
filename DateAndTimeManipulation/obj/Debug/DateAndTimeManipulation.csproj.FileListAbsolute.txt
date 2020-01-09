@@ -1,0 +1,9 @@
+C:\Users\kingl\source\repos\DateAndTimeManipulation\bin\Debug\DateAndTimeManipulation.exe.config
+C:\Users\kingl\source\repos\DateAndTimeManipulation\bin\Debug\DateAndTimeManipulation.exe
+C:\Users\kingl\source\repos\DateAndTimeManipulation\bin\Debug\DateAndTimeManipulation.pdb
+C:\Users\kingl\source\repos\DateAndTimeManipulation\obj\Debug\DateAndTimeManipulation.csprojAssemblyReference.cache
+C:\Users\kingl\source\repos\DateAndTimeManipulation\obj\Debug\DateAndTimeManipulation.Form1.resources
+C:\Users\kingl\source\repos\DateAndTimeManipulation\obj\Debug\DateAndTimeManipulation.Properties.Resources.resources
+C:\Users\kingl\source\repos\DateAndTimeManipulation\obj\Debug\DateAndTimeManipulation.csproj.GenerateResource.cache
+C:\Users\kingl\source\repos\DateAndTimeManipulation\obj\Debug\DateAndTimeManipulation.exe
+C:\Users\kingl\source\repos\DateAndTimeManipulation\obj\Debug\DateAndTimeManipulation.pdb
