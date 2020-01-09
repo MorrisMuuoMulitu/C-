@@ -1,0 +1,12 @@
+C:\Users\kingl\Google Drive\School\5th_Semester\Programming_3\Pass_Test\C#MustBePassed\Practice_11_Ex_2\bin\Debug\Practice_11_Ex_2.exe.config
+C:\Users\kingl\Google Drive\School\5th_Semester\Programming_3\Pass_Test\C#MustBePassed\Practice_11_Ex_2\bin\Debug\Practice_11_Ex_2.exe
+C:\Users\kingl\Google Drive\School\5th_Semester\Programming_3\Pass_Test\C#MustBePassed\Practice_11_Ex_2\bin\Debug\Practice_11_Ex_2.pdb
+C:\Users\kingl\Google Drive\School\5th_Semester\Programming_3\Pass_Test\C#MustBePassed\Practice_11_Ex_2\obj\Debug\Practice_11_Ex_2.Form1.resources
+C:\Users\kingl\Google Drive\School\5th_Semester\Programming_3\Pass_Test\C#MustBePassed\Practice_11_Ex_2\obj\Debug\Practice_11_Ex_2.HelpForm.resources
+C:\Users\kingl\Google Drive\School\5th_Semester\Programming_3\Pass_Test\C#MustBePassed\Practice_11_Ex_2\obj\Debug\Practice_11_Ex_2.Properties.Resources.resources
+C:\Users\kingl\Google Drive\School\5th_Semester\Programming_3\Pass_Test\C#MustBePassed\Practice_11_Ex_2\obj\Debug\Practice_11_Ex_2.WinnersForm.resources
+C:\Users\kingl\Google Drive\School\5th_Semester\Programming_3\Pass_Test\C#MustBePassed\Practice_11_Ex_2\obj\Debug\Practice_11_Ex_2.csproj.GenerateResource.cache
+C:\Users\kingl\Google Drive\School\5th_Semester\Programming_3\Pass_Test\C#MustBePassed\Practice_11_Ex_2\obj\Debug\Practice_11_Ex_2.exe
+C:\Users\kingl\Google Drive\School\5th_Semester\Programming_3\Pass_Test\C#MustBePassed\Practice_11_Ex_2\obj\Debug\Practice_11_Ex_2.pdb
+C:\Users\kingl\Google Drive\School\5th_Semester\Programming_3\Pass_Test\C#MustBePassed\Practice_11_Ex_2\obj\Debug\Practice_11_Ex_2.VotingForm.resources
+C:\Users\kingl\Google Drive\School\5th_Semester\Programming_3\Pass_Test\C#MustBePassed\Practice_11_Ex_2\obj\Debug\Practice_11_Ex_2.csprojAssemblyReference.cache
