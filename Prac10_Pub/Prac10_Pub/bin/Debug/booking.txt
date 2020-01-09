@@ -1,0 +1,8 @@
+Shot of plum brandy;3;600
+Shot of apricot brandy;0;0
+Shot of mixed brandy;0;0
+Pint of beer;4;600
+Glass of beer;0;0
+Glass of spritzer;0;0
+Cafe;4;480
+Mineral water;1;80

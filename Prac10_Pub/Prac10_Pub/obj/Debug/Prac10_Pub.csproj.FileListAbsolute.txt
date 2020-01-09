@@ -1,0 +1,32 @@
+E:\C#\Prac10_Pub\Prac10_Pub\bin\Debug\Prac10_Pub.exe.config
+E:\C#\Prac10_Pub\Prac10_Pub\bin\Debug\Prac10_Pub.exe
+E:\C#\Prac10_Pub\Prac10_Pub\bin\Debug\Prac10_Pub.pdb
+E:\C#\Prac10_Pub\Prac10_Pub\obj\Debug\Prac10_Pub.csprojAssemblyReference.cache
+E:\C#\Prac10_Pub\Prac10_Pub\obj\Debug\Prac10_Pub.Form1.resources
+E:\C#\Prac10_Pub\Prac10_Pub\obj\Debug\Prac10_Pub.Properties.Resources.resources
+E:\C#\Prac10_Pub\Prac10_Pub\obj\Debug\Prac10_Pub.csproj.GenerateResource.cache
+E:\C#\Prac10_Pub\Prac10_Pub\obj\Debug\Prac10_Pub.csproj.CoreCompileInputs.cache
+E:\C#\Prac10_Pub\Prac10_Pub\obj\Debug\Prac10_Pub.exe
+E:\C#\Prac10_Pub\Prac10_Pub\obj\Debug\Prac10_Pub.pdb
+E:\C#\Prac10_Pub\Prac10_Pub\obj\Debug\Prac10_Pub.DrinkForm.resources
+f:\C#\Prac10_Pub\Prac10_Pub\bin\Debug\Prac10_Pub.exe.config
+f:\C#\Prac10_Pub\Prac10_Pub\bin\Debug\Prac10_Pub.exe
+f:\C#\Prac10_Pub\Prac10_Pub\bin\Debug\Prac10_Pub.pdb
+f:\C#\Prac10_Pub\Prac10_Pub\obj\Debug\Prac10_Pub.DrinkForm.resources
+f:\C#\Prac10_Pub\Prac10_Pub\obj\Debug\Prac10_Pub.Form1.resources
+f:\C#\Prac10_Pub\Prac10_Pub\obj\Debug\Prac10_Pub.Properties.Resources.resources
+f:\C#\Prac10_Pub\Prac10_Pub\obj\Debug\Prac10_Pub.csproj.GenerateResource.cache
+f:\C#\Prac10_Pub\Prac10_Pub\obj\Debug\Prac10_Pub.exe
+f:\C#\Prac10_Pub\Prac10_Pub\obj\Debug\Prac10_Pub.pdb
+C:\Users\kingl\Google Drive\School\5th_Semester\Programming_3\Pass_Test\C#MustBePassed\Prac10_Pub\Prac10_Pub\bin\Debug\Prac10_Pub.exe.config
+C:\Users\kingl\Google Drive\School\5th_Semester\Programming_3\Pass_Test\C#MustBePassed\Prac10_Pub\Prac10_Pub\bin\Debug\Prac10_Pub.exe
+C:\Users\kingl\Google Drive\School\5th_Semester\Programming_3\Pass_Test\C#MustBePassed\Prac10_Pub\Prac10_Pub\bin\Debug\Prac10_Pub.pdb
+C:\Users\kingl\Google Drive\School\5th_Semester\Programming_3\Pass_Test\C#MustBePassed\Prac10_Pub\Prac10_Pub\obj\Debug\Prac10_Pub.DrinkForm.resources
+C:\Users\kingl\Google Drive\School\5th_Semester\Programming_3\Pass_Test\C#MustBePassed\Prac10_Pub\Prac10_Pub\obj\Debug\Prac10_Pub.Form1.resources
+C:\Users\kingl\Google Drive\School\5th_Semester\Programming_3\Pass_Test\C#MustBePassed\Prac10_Pub\Prac10_Pub\obj\Debug\Prac10_Pub.Properties.Resources.resources
+C:\Users\kingl\Google Drive\School\5th_Semester\Programming_3\Pass_Test\C#MustBePassed\Prac10_Pub\Prac10_Pub\obj\Debug\Prac10_Pub.csproj.GenerateResource.cache
+C:\Users\kingl\Google Drive\School\5th_Semester\Programming_3\Pass_Test\C#MustBePassed\Prac10_Pub\Prac10_Pub\obj\Debug\Prac10_Pub.exe
+C:\Users\kingl\Google Drive\School\5th_Semester\Programming_3\Pass_Test\C#MustBePassed\Prac10_Pub\Prac10_Pub\obj\Debug\Prac10_Pub.pdb
+C:\Users\kingl\Google Drive\School\5th_Semester\Programming_3\Pass_Test\C#MustBePassed\Prac10_Pub\Prac10_Pub\obj\Debug\Prac10_Pub.BillForm.resources
+C:\Users\kingl\Google Drive\School\5th_Semester\Programming_3\Pass_Test\C#MustBePassed\Prac10_Pub\Prac10_Pub\obj\Debug\Prac10_Pub.GalleryForm.resources
+C:\Users\kingl\Google Drive\School\5th_Semester\Programming_3\Pass_Test\C#MustBePassed\Prac10_Pub\Prac10_Pub\obj\Debug\Prac10_Pub.HelpForm.resources
