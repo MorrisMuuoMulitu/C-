@@ -1,0 +1,13 @@
+C:\Users\kingl\Google Drive\School\5th_Semester\Programming_3\Pass_Test\C#MustBePassed\Practice10\obj\Debug\Practice10.csprojAssemblyReference.cache
+C:\Users\kingl\Google Drive\School\5th_Semester\Programming_3\Pass_Test\C#MustBePassed\Practice10\obj\Debug\Practice10.DrinkMenuForm.resources
+C:\Users\kingl\Google Drive\School\5th_Semester\Programming_3\Pass_Test\C#MustBePassed\Practice10\obj\Debug\Practice10.Form1.resources
+C:\Users\kingl\Google Drive\School\5th_Semester\Programming_3\Pass_Test\C#MustBePassed\Practice10\obj\Debug\Practice10.Properties.Resources.resources
+C:\Users\kingl\Google Drive\School\5th_Semester\Programming_3\Pass_Test\C#MustBePassed\Practice10\obj\Debug\Practice10.csproj.GenerateResource.cache
+C:\Users\kingl\Google Drive\School\5th_Semester\Programming_3\Pass_Test\C#MustBePassed\Practice10\obj\Debug\Practice10.BillForm.resources
+C:\Users\kingl\Google Drive\School\5th_Semester\Programming_3\Pass_Test\C#MustBePassed\Practice10\obj\Debug\Practice10.GalleryForm.resources
+C:\Users\kingl\Google Drive\School\5th_Semester\Programming_3\Pass_Test\C#MustBePassed\Practice10\obj\Debug\Practice10.HelpForm.resources
+C:\Users\kingl\Google Drive\School\5th_Semester\Programming_3\Pass_Test\C#MustBePassed\Practice10\bin\Debug\Practice10.exe.config
+C:\Users\kingl\Google Drive\School\5th_Semester\Programming_3\Pass_Test\C#MustBePassed\Practice10\bin\Debug\Practice10.exe
+C:\Users\kingl\Google Drive\School\5th_Semester\Programming_3\Pass_Test\C#MustBePassed\Practice10\bin\Debug\Practice10.pdb
+C:\Users\kingl\Google Drive\School\5th_Semester\Programming_3\Pass_Test\C#MustBePassed\Practice10\obj\Debug\Practice10.exe
+C:\Users\kingl\Google Drive\School\5th_Semester\Programming_3\Pass_Test\C#MustBePassed\Practice10\obj\Debug\Practice10.pdb
