@@ -1,0 +1,6 @@
+C:\Users\kingl\Google Drive\School\5th_Semester\Programming_3\Pass_Test\C#MustBePassed\SongCompetition\bin\Debug\SongCompetition.exe.config
+C:\Users\kingl\Google Drive\School\5th_Semester\Programming_3\Pass_Test\C#MustBePassed\SongCompetition\bin\Debug\SongCompetition.exe
+C:\Users\kingl\Google Drive\School\5th_Semester\Programming_3\Pass_Test\C#MustBePassed\SongCompetition\bin\Debug\SongCompetition.pdb
+C:\Users\kingl\Google Drive\School\5th_Semester\Programming_3\Pass_Test\C#MustBePassed\SongCompetition\obj\Debug\SongCompetition.csprojAssemblyReference.cache
+C:\Users\kingl\Google Drive\School\5th_Semester\Programming_3\Pass_Test\C#MustBePassed\SongCompetition\obj\Debug\SongCompetition.exe
+C:\Users\kingl\Google Drive\School\5th_Semester\Programming_3\Pass_Test\C#MustBePassed\SongCompetition\obj\Debug\SongCompetition.pdb
