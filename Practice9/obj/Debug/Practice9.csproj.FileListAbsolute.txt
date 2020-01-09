@@ -1,0 +1,10 @@
+C:\Users\kingl\Google Drive\School\5th_Semester\Programming_3\Pass_Test\C#MustBePassed\Practice9\bin\Debug\Practice9.exe.config
+C:\Users\kingl\Google Drive\School\5th_Semester\Programming_3\Pass_Test\C#MustBePassed\Practice9\bin\Debug\Practice9.exe
+C:\Users\kingl\Google Drive\School\5th_Semester\Programming_3\Pass_Test\C#MustBePassed\Practice9\bin\Debug\Practice9.pdb
+C:\Users\kingl\Google Drive\School\5th_Semester\Programming_3\Pass_Test\C#MustBePassed\Practice9\obj\Debug\Practice9.Form1.resources
+C:\Users\kingl\Google Drive\School\5th_Semester\Programming_3\Pass_Test\C#MustBePassed\Practice9\obj\Debug\Practice9.Properties.Resources.resources
+C:\Users\kingl\Google Drive\School\5th_Semester\Programming_3\Pass_Test\C#MustBePassed\Practice9\obj\Debug\Practice9.csproj.GenerateResource.cache
+C:\Users\kingl\Google Drive\School\5th_Semester\Programming_3\Pass_Test\C#MustBePassed\Practice9\obj\Debug\Practice9.exe
+C:\Users\kingl\Google Drive\School\5th_Semester\Programming_3\Pass_Test\C#MustBePassed\Practice9\obj\Debug\Practice9.pdb
+C:\Users\kingl\Google Drive\School\5th_Semester\Programming_3\Pass_Test\C#MustBePassed\Practice9\obj\Debug\Practice9.csprojAssemblyReference.cache
+C:\Users\kingl\Google Drive\School\5th_Semester\Programming_3\Pass_Test\C#MustBePassed\Practice9\obj\Debug\Practice9.Form2.resources
