@@ -1,0 +1,6 @@
+D:\+254\C#\Workers&Trainees\ProjectWorker\ProjectWorker\bin\Debug\ProjectWorker.exe.config
+D:\+254\C#\Workers&Trainees\ProjectWorker\ProjectWorker\bin\Debug\ProjectWorker.exe
+D:\+254\C#\Workers&Trainees\ProjectWorker\ProjectWorker\bin\Debug\ProjectWorker.pdb
+D:\+254\C#\Workers&Trainees\ProjectWorker\ProjectWorker\obj\Debug\ProjectWorker.csproj.CoreCompileInputs.cache
+D:\+254\C#\Workers&Trainees\ProjectWorker\ProjectWorker\obj\Debug\ProjectWorker.exe
+D:\+254\C#\Workers&Trainees\ProjectWorker\ProjectWorker\obj\Debug\ProjectWorker.pdb
