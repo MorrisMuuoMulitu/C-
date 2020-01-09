@@ -1,0 +1,9 @@
+C:\Users\kingl\source\repos\Practice8DynamicControls\bin\Debug\Practice8DynamicControls.exe.config
+C:\Users\kingl\source\repos\Practice8DynamicControls\bin\Debug\Practice8DynamicControls.exe
+C:\Users\kingl\source\repos\Practice8DynamicControls\bin\Debug\Practice8DynamicControls.pdb
+C:\Users\kingl\source\repos\Practice8DynamicControls\obj\Debug\Practice8DynamicControls.csprojAssemblyReference.cache
+C:\Users\kingl\source\repos\Practice8DynamicControls\obj\Debug\Practice8DynamicControls.Form1.resources
+C:\Users\kingl\source\repos\Practice8DynamicControls\obj\Debug\Practice8DynamicControls.Properties.Resources.resources
+C:\Users\kingl\source\repos\Practice8DynamicControls\obj\Debug\Practice8DynamicControls.csproj.GenerateResource.cache
+C:\Users\kingl\source\repos\Practice8DynamicControls\obj\Debug\Practice8DynamicControls.exe
+C:\Users\kingl\source\repos\Practice8DynamicControls\obj\Debug\Practice8DynamicControls.pdb
