@@ -1,0 +1,6 @@
+D:\+254\Song_Competition\SongCompetition\SongCompetition\bin\Debug\SongCompetition.exe.config
+D:\+254\Song_Competition\SongCompetition\SongCompetition\bin\Debug\SongCompetition.exe
+D:\+254\Song_Competition\SongCompetition\SongCompetition\bin\Debug\SongCompetition.pdb
+D:\+254\Song_Competition\SongCompetition\SongCompetition\obj\Debug\SongCompetition.csproj.CoreCompileInputs.cache
+D:\+254\Song_Competition\SongCompetition\SongCompetition\obj\Debug\SongCompetition.exe
+D:\+254\Song_Competition\SongCompetition\SongCompetition\obj\Debug\SongCompetition.pdb
